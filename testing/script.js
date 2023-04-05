@@ -1,1 +1,3 @@
 indexedDB.create;
+
+decodeURI
